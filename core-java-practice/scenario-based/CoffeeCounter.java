@@ -11,7 +11,7 @@ public class CoffeeCounter {
             coffeeType = input.next();
 
             if (coffeeType.equalsIgnoreCase("exit")) {
-                System.out.println("Thank you! Cafe closed ☕");
+                System.out.println("Thank you! Cafe closed ");
                 break;
             }
 
