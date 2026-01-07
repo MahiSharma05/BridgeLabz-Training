@@ -1,64 +1,47 @@
 BridgeLabz-Training
 
-👤 Trainee Details
+# 👤 Trainee Details
 
 Name: Mahi Sharma
 
-
 Organization: BridgeLabz Solutions Pvt. Ltd.
 
-📖 About This Repository
+
+# 📖 About This Repository
 
 This repository documents my daily learning journey at BridgeLabz, focusing on Core Java, problem-solving, and scenario-based programming. 
 
 It is continuously updated with assignments, hands-on labs, and practice problems.The purpose of this repository is to maintain a transparent and structured record of my progress, showcasing consistency, learning discipline, and practical Java skills.
 
-🎯 Repository Goals
 
-Track daily learning and coding activities
-
-
-Document technical growth and weekly assignments
+# 🎯 Repository Goals
 
 
-Maintain a clear audit trail of coding work
+- Track daily learning and coding activities
+
+- Document technical growth and weekly assignments
+
+- Maintain a clear audit trail of coding work
+
+- Strengthen logical and problem-solving skills
+
+- Showcase Java proficiency through real-world exercises
 
 
-Strengthen logical and problem-solving skills
+# 🛠 Tech Stack & Tools
 
 
-Showcase Java proficiency through real-world exercises
+| Category              | Technology                          |
+|----------------------|--------------------------------------|
+| Programming Language | Java                                 |
+| IDE / Editor         | Eclipse, Notepad++                   |
+| Version Control      | Git                                  |
+| Repository Hosting   | GitHub                               |
+| Learning Platform    | BridgeLabz Training                  |
+| Learning Method      | Hands-on coding, daily assignments   |
 
 
-
-🛠 Tech Stack & Tools
-
-
-
-Category   Technology
-
-
-
-Programming Language  Java
-
-
-IDE / Editor          Eclipse, Notepad++
-
-
-Version Control       Git
-
-
-Repository Hosting    GitHub
-
-
-Learning Platform     BridgeLabz Training
-
-
-Learning Method       Hands-on coding, daily assignments
-
-
-
-Repository Layout:
+# Repository Layout:
 
 
 BridgeLabz-Training (main repository)
@@ -104,27 +87,22 @@ BridgeLabz-Training (main repository)
 └── Branch: reviews 
 
 
-🧠 Learning Approach
+# 🧠 Learning Approach
 
 
-Principle                       Description
-
-Logical Thinking First          Understand the problem before coding
-
-Clean Code                      Write readable, reusable, and maintainable code
-
-Edge Case Awareness             Validate inputs and handle boundary cases
-
-Practical Scenarios             Apply concepts to real-life problems
-
-Step-by-Step Growth             Start simple, then optimize and enhance
+| Principle              | Description                                           |
+|------------------------|-------------------------------------------------------|
+| Logical Thinking First | Understand the problem before coding                  |
+| Clean Code             | Write readable, reusable, and maintainable code       |
+| Edge Case Awareness    | Validate inputs and handle boundary cases             |
+| Practical Scenarios    | Apply concepts to real-life problems                  |
+| Step-by-Step Growth    | Start simple, then optimize and enhance               |
 
 
-🗓 Learning Progress Summary
+# 🗓 Learning Progress Summary
 
 
-
-✅ Week 1: Getting Started with Java Basics
+ Week 1: Getting Started with Java Basics
 
 
 20-Dec-2025 (Saturday):Studied Java Full Stack Roadmap (Angular + Python + GenAI), Git workflow, and cheat sheets 
@@ -178,33 +156,33 @@ Week 4 - Scenario Based And OOPs Concept
 09-Jan-2026 (Friday) :
 
 
-📊 Progress Tracking
+# 📊 Progress Tracking
 
 
 This repository highlights:
 
-Daily consistency in learning and coding
+- Daily consistency in learning and coding
 
-Strong foundation in Java basics
+- Strong foundation in Java basics
 
-Gradual improvement in problem-solving skills
+- Gradual improvement in problem-solving skills
 
-Clean, well-structured, and maintainable code
+- Clean, well-structured, and maintainable code
 
 
-🌱 Growth Journey
+# 🌱 Growth Journey
 
 
 This repository serves as:
 
-A learning diary of my BridgeLabz training
+- A learning diary of my BridgeLabz training
 
-A showcase of Java coding skills
+- A showcase of Java coding skills
 
-Proof of continuous growth and hands-on practice
+- Proof of continuous growth and hands-on practice
 
-I will continue updating this repository as I advance into OOP concepts, scenario-based programs, and advanced Java topics.
+- I will continue updating this repository as I advance into OOP concepts, scenario-based programs, and advanced Java topics.
 
 
-⭐ Consistent learning leads to confident coding.
+## ⭐ Consistent learning leads to confident coding.
 
