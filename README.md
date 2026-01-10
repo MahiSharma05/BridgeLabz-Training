@@ -1,20 +1,19 @@
-BridgeLabz-Training
+# BridgeLabz-Training
 
-# 👤 Trainee Details
 
-Name: Mahi Sharma
+Trainee: Mahi Sharma
 
 Organization: BridgeLabz Solutions Pvt. Ltd.
 
 
-# 📖 About This Repository
+# About This Repository
 
 This repository documents my daily learning journey at BridgeLabz, focusing on Core Java, problem-solving, and scenario-based programming. 
 
 It is continuously updated with assignments, hands-on labs, and practice problems.The purpose of this repository is to maintain a transparent and structured record of my progress, showcasing consistency, learning discipline, and practical Java skills.
 
 
-# 🎯 Repository Goals
+# Repository Goals
 
 
 - Track daily learning and coding activities
@@ -28,7 +27,7 @@ It is continuously updated with assignments, hands-on labs, and practice problem
 - Showcase Java proficiency through real-world exercises
 
 
-# 🛠 Tech Stack & Tools
+# Tech Stack & Tools
 
 
 | Category              | Technology                          |
@@ -87,7 +86,7 @@ BridgeLabz-Training (main repository)
 └── Branch: reviews 
 
 
-# 🧠 Learning Approach
+# Learning Approach
 
 
 | Principle              | Description                                           |
@@ -99,23 +98,19 @@ BridgeLabz-Training (main repository)
 | Step-by-Step Growth    | Start simple, then optimize and enhance               |
 
 
-# 🗓 Learning Progress Summary
+# Learning Progress Summary
 
 
- Week 1: Getting Started with Java Basics
+ ## Week 1: Getting Started with Java Basics
 
 
-20-Dec-2025 (Saturday):Studied Java Full Stack Roadmap (Angular + Python + GenAI), Git workflow, and cheat sheets 
+20-Dec-2025 (Saturday): Studied Java fundamentals and variables. Solved elementary problems.
 
-21-Dec-2025 (Sunday): Installed and set up Git Bash, Java, GitHub, and text editor (Notepad++)
+21-Dec-2025 (Sunday): Continued with control flow. Practiced loops and conditionals.
 
+22-Dec-2025 (Monday): Solved basic practice problems.
 
-✅ Week 2: Arrays and Strings
-
-
-22-Dec-2025 (Monday): Solved basic practice problems
-
-23-Dec-2025 (Tuesday): Practiced Java Programming Elements and Control Flow problems
+23-Dec-2025 (Tuesday): Solved practice problems set .
 
 24-Dec-2025 (Wednesday): Completed and submitted Programming Elements , Control Flow Problems. 
 
@@ -125,13 +120,13 @@ BridgeLabz-Training (main repository)
 
 28-Dec-2025 (Sunday):submitted String and Methods problems.
 
+29-Dec-2025 (Monday): Completed Employee Wage Computation scenario-based problem and LeetCode question.
 
-✅ Week 3: Scenario Based And OOPs Concept
+
+ ## Week 2: Getting Started with Object-Oriented Programming
 
 
-29-Dec-2025 (Monday): Completed Employee Wage Computation scenario and LeetCode problem.
-
-30-Dec-2025 (Tuesday): Developed Snake & Ladder scenario; started OOP concepts.
+30-Dec-2025 (Tuesday): Developed Snake & Ladder scenario-based problem and started OOP concepts.
 
 31-Dec-2025 (Wednesday): Studied Classes, Objects, Constructors, Instance & Static variables.
 
@@ -139,24 +134,24 @@ BridgeLabz-Training (main repository)
 
 02-Jan-2026 (Friday) : Studied object modeling , class diagram and sequence diagram and implemented it.
 
-03-Jan-2026 (Saturday) : Solved scenario based problem and Inheritance Problem.
+03-Jan-2026 (Saturday) : Solved Library Management System , Student Quiz Grader scenario based problem and Inheritance Problems.
+
+05-Jan-2026 (Monday) : Solved some leetcode problem and BankingApp, CafetariaMenuApp, InvoiceGenerator, MathUtilityLibrary scenaio based problem.
+
+06-Jan-2026 (Tuesday) : Studied and submitted Encapsulation , Polymorphism , Interface and Abstract class Problems.
+
+07-Jan-2026 (Wednesday) : Solved scenario based problem CabBookingApp, OnlineBankingSystem. 
 
 
-Week 4 - Scenario Based And OOPs Concept
+## Week 3 - Getting Started with data Structure and Algorithms
 
 
-05-Jan-2026 (Monday) : Solved some leetcode problem and Studied Encapsulation , Polymorphism , Interface and Abstract class.
+08-Jan-2026 (Thursday) : Studied Key Features and Types of Data Structures in Java and singly, doubly and circular linked-list.
 
-06-Jan-2026 (Tuesday) : Submitted Encapsulation , Polymorphism , Interface and Abstract class Problems.
-
-07-Jan-2026 (Wednesday) :
-
-08-Jan-2026 (Thursday) :
-
-09-Jan-2026 (Friday) :
+09-Jan-2026 (Friday) : Solved Hospital Patient Management System, Vehicle Rental Application, Flight Booking System scenario problem and submitted linked-list problem.
 
 
-# 📊 Progress Tracking
+# Progress Tracking
 
 
 This repository highlights:
@@ -170,7 +165,7 @@ This repository highlights:
 - Clean, well-structured, and maintainable code
 
 
-# 🌱 Growth Journey
+# Growth Journey
 
 
 This repository serves as:
@@ -184,5 +179,5 @@ This repository serves as:
 - I will continue updating this repository as I advance into OOP concepts, scenario-based programs, and advanced Java topics.
 
 
-## ⭐ Consistent learning leads to confident coding.
+## Consistent learning leads to confident coding.
 
