@@ -150,6 +150,11 @@ BridgeLabz-Training (main repository)
 
 09-Jan-2026 (Friday) : Solved Hospital Patient Management System, Vehicle Rental Application, Flight Booking System scenario problem and submitted linked-list problem.
 
+12-Jan-2026 (Monday) : Solved  E-Commerce Order Management System, Student Course Registration System, Hospital Management System scenario based problems.
+
+13-Jan-2026 (Tuesday) : Implementing merge conflict , git commands like pull, stash, pop, fetch commands and solved  Hotel Reservation System, Online Voting System scenaio based problems. 
+
+14-Jan-2026 (Wednesday) : Studied Stack , Queue, HashMap and Hashing Function and implemented problems.
 
 # Progress Tracking
 
