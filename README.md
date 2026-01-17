@@ -156,6 +156,10 @@ BridgeLabz-Training (main repository)
 
 14-Jan-2026 (Wednesday) : Studied Stack , Queue, HashMap and Hashing Function and implemented problems.
 
+15-jan-2026 (Thursday) : learned sorting Algorithm and implemnet it.
+
+16-jan-2026 (Friday) : Continued with sorting problems and started address book problem and solve UC1 and UC2. 
+
 # Progress Tracking
 
 
