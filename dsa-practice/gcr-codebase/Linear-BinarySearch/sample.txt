@@ -1,0 +1,5 @@
+Java is a high-level, class-based, object-oriented programming language designed on the principle of 
+"Write Once, Run Anywhere" (WORA). 
+Its code is compiled into an intermediate bytecode which can then be executed on any device 
+that has a Java Virtual Machine (JVM) installed, ensuring platform independenceHello Mahi
+
