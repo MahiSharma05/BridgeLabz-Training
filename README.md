@@ -160,6 +160,19 @@ BridgeLabz-Training (main repository)
 
 16-jan-2026 (Friday) : Continued with sorting problems and started address book problem and solve UC1 and UC2. 
 
+17-jan-2026 (Saturday) : Learn StringBuilder , StringBuffer and solve TrafficManager scenaio-based problem.
+
+
+## Week 4 - Getting staeted with java Collections.
+
+19-jan-2026 (Monday) : Studied java Generics class and implemented Employee Role Polymorphism and Banking Account problem.
+
+20-jan-2026 (Tuesday) : Implemented Java Generics and learn about Collections.
+
+21-jan-2026 (Wednesday) : solve and submitted scenario based problem.
+
+
+
 # Progress Tracking
 
 
