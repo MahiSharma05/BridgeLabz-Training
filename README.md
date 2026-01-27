@@ -83,6 +83,40 @@ BridgeLabz-Training (main repository)
 
 │
 
+├── Branch: Dsa-practice
+
+│   ├── gcr-codebase
+
+│   │   ├── Linear-Binary Search
+
+│   │   ├── Runtime Analysis and Big O Notation
+
+│   │   └── Stack, Queue, HashMap, Hashing function
+
+│   │   └── Linked List
+
+│   │   └── Sorting
+
+│   ├── leet-code-codebase
+
+│   └── scenario-based
+
+├── Branch: Collections-practice
+
+│   ├── gcr-codebase
+
+│   │   ├── Collections
+
+│   │   ├── Exception Handling
+
+│   │   └── Java Generics
+
+│   │   └── Stream
+
+│   ├── leet-code-codebase
+
+│   └── scenario-based
+
 └── Branch: reviews 
 
 
@@ -110,7 +144,7 @@ BridgeLabz-Training (main repository)
 
 22-Dec-2025 (Monday): Solved basic practice problems.
 
-23-Dec-2025 (Tuesday): Solved practice problems set .
+23-Dec-2025 (Tuesday): Solved Leet code problems .
 
 24-Dec-2025 (Wednesday): Completed and submitted Programming Elements , Control Flow Problems. 
 
@@ -122,6 +156,16 @@ BridgeLabz-Training (main repository)
 
 29-Dec-2025 (Monday): Completed Employee Wage Computation scenario-based problem and LeetCode question.
 
+### Scenario Based Problems
+
+- BMIFitnessTracker: Takes height and weight as input to compute BMI and show the category.
+
+- CoffeeCounter: Takes coffee type and quantity as input and generates the total bill including GST.
+
+- ElectionBoothManager: It manages a voting process by checking voter eligibility, recording votes, and displaying final election results.
+
+- EmployeeWageComputation: It Calculates employee wages by tracking attendance, part-time/full-time hours, and monthly limits
+  
 
  ## Week 2: Getting Started with Object-Oriented Programming
 
