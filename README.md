@@ -132,6 +132,98 @@ BridgeLabz-Training (main repository)
 | Step-by-Step Growth    | Start simple, then optimize and enhance               |
 
 
+# Senario Based Problems
+
+
+### Completed: Core Java fundamentals, control flow, methods, arrays, strings and utility programs Core Java Scenario-Based Problems:
+
+- BMIFitnessTracker: Takes height and weight as input to compute BMI and show the category.
+
+- CoffeeCounter: Takes coffee type and quantity as input and generates the total bill including GST.
+
+- ElectionBoothManager: It manages a voting process by checking voter eligibility, recording votes, and displaying final election results.
+
+- EmployeeWageComputation: It Calculates employee wages by tracking attendance, part-time/full-time hours, and monthly limits
+
+- LineComparisonProblem: It calculates the lengths of two lines using coordinates and compares them for equality and magnitude.
+
+- MetroSmartCard: It Calculates metro fare based on distance and updates the smart card balance.
+
+- SnakeAndLadderProblem: Simulates a single-player Snake and Ladder game in Java.
+
+Core Java Branch: (https://github.com/MahiSharma05/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+
+### Completed: OOP concepts (encapsulation, inheritance, polymorphism,abstraction) with scenario based questions. OOP Scenario-Based Problems:
+
+FlightBookingSystem: Implements a basic flight booking and management system in Java.
+
+EcommerceOrderManagment: E-commerce platform
+
+CabRideManagementSystem: Simulates a cab booking system with driver assignment and fare calculation.
+
+HospitalManagementSystem: Hospital patient and doctor management.
+
+HotelReservationSystem: Hotel room reservations.
+
+InventoryManagementSystem: Inventory tracking and management.
+
+ExaminationSystem: Online exam platform.
+
+OnlineQuizResultProcessor: Evaluates quiz answers and generates scores and grades.
+
+OnlineVotingSystem: Online voting system.
+
+StudentCourseRegistration: Student course registration.
+
+TrafficManagerSystem: Traffic management system.
+
+BankAccountManager: Banking application
+
+CafetariaMenuApp: Displays a cafeteria menu and retrieves the selected item.
+
+HospitalPatientManagementSystem: Manages hospital patients and generates bills using OOP concepts.
+
+InvoiceGenerator: Generates an invoice total by parsing task-wise costs.
+
+InvoiceGeneratorWithException: Parses invoice data and calculates total amount with exception handling.
+
+LibraryManagementSystem: Manages library books with search and checkout features.
+
+MathUtility: Provides basic mathematical utility functions in Java.
+
+ParagraphAnalyzer: Paragraph text analysis.
+
+PhoneContactOrganizer: Contact organization.
+
+SentenceFormatter: Sentence formatting.
+
+StudentReportGenerator: Report generation.
+
+Core Java Branch: https://github.com/MahiSharma05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+
+### Completed: Data Structures & Algorithms (Linked Lists, Stack, Queue, HashMap, Sorting ,Searching) DSA Scenario-Based Problems:
+
+BankAccount: Bank account management with hierarchy.
+
+Bookshelf: Bookshelf organization system.
+
+BrowserBuddy: Browser bookmark management.
+
+Employee: Employee role management.
+
+ExamProctor: Exam proctoring system.
+
+MovieSchedulerManager: Movie scheduling application.
+
+ParcelTracker: Parcel tracking system.
+
+TrafficManager: Traffic management system.
+
+**DSA Scenario-Based Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
+
 # Learning Progress Summary
 
 
