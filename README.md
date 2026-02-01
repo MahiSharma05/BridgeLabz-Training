@@ -132,6 +132,7 @@ BridgeLabz-Training (main repository)
 | Step-by-Step Growth    | Start simple, then optimize and enhance               |
 
 
+
 # Senario Based Problems
 
 
@@ -223,6 +224,22 @@ TrafficManager: Traffic management system.
 
 **DSA Scenario-Based Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
 
+### Completed: Collections Framework, Exception handling, java Generics, regex, junit, stream and Scenario-Based Problems:
+
+- FutureLogistics: It maintain records of goods transported and bill details that can be displayed as and when required.
+  
+- lexicalTwist: The task is to process the words and perform various transformations and analyses based on specific conditions.
+
+- EduResults: Rank Sheet Generator.
+
+- FileBackupScheduler:  A system schedules file backups at different times.
+
+- RestaurantTableReservation:  A restaurant allows customers to reserve tables for specific time slots.
+
+- SmartCheckout: Supermarket Billing Queue.
+
+Collection-practice Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+
 
 # Learning Progress Summary
 
@@ -306,6 +323,24 @@ TrafficManager: Traffic management system.
 20-jan-2026 (Tuesday) : Implemented Java Generics and learn about Collections.
 
 21-jan-2026 (Wednesday) : solve and submitted scenario based problem.
+
+22-jan-2026 (Thursday) : Learned about java collections set, list, map, queue and implements problems of set and list.
+
+23-jan-2026 (Friday) :  Continued with collections and solved practice problem of queue and map. Also solved some scenario problems.
+
+26-Jan-2026 (Monday) : Learned about IO Streams and implemented it problems.
+
+27-Jan-2026 (Tuesday) : Learned about Exception Handling and implemented  problems. Also solved LexicalTwist scenario problem.
+
+28-Jan-2026 (Wednesday) : Learned about Regular Expressions(Regex) and solved some problems. Also solved Flip Key Logical scenario problem.
+
+29-Jan-2026 (Thursday) : Continued with regex practice problems and also Learned about JUnit .
+
+30-Jan-2026 (Friday) : Learned how to create test cases in junit and solved problems of JUnit.
+
+31-Jan-2026 (Saturday) : Continued with junit and implement all problems.
+
+1-Feb-2026 (Sunday) : Solved FutureLogistics scenario practice problem.
 
 
 
