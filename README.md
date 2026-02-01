@@ -268,16 +268,6 @@ Collection-practice Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/
 28-Dec-2025 (Sunday):submitted String and Methods problems.
 
 29-Dec-2025 (Monday): Completed Employee Wage Computation scenario-based problem and LeetCode question.
-
-### Scenario Based Problems
-
-- BMIFitnessTracker: Takes height and weight as input to compute BMI and show the category.
-
-- CoffeeCounter: Takes coffee type and quantity as input and generates the total bill including GST.
-
-- ElectionBoothManager: It manages a voting process by checking voter eligibility, recording votes, and displaying final election results.
-
-- EmployeeWageComputation: It Calculates employee wages by tracking attendance, part-time/full-time hours, and monthly limits
   
 
  ## Week 2: Getting Started with Object-Oriented Programming
