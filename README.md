@@ -161,74 +161,74 @@ Core Java Branch: (https://github.com/MahiSharma05/BridgeLabz-Training/tree/core
 
 ### Completed: OOP concepts (encapsulation, inheritance, polymorphism,abstraction) with scenario based questions. OOP Scenario-Based Problems:
 
-FlightBookingSystem: Implements a basic flight booking and management system in Java.
+- FlightBookingSystem: Implements a basic flight booking and management system in Java.
 
-EcommerceOrderManagment: E-commerce platform
+- EcommerceOrderManagment: E-commerce platform
 
-CabRideManagementSystem: Simulates a cab booking system with driver assignment and fare calculation.
+- CabRideManagementSystem: Simulates a cab booking system with driver assignment and fare calculation.
 
-HospitalManagementSystem: Hospital patient and doctor management.
+- HospitalManagementSystem: Hospital patient and doctor management.
 
-HotelReservationSystem: Hotel room reservations.
+- HotelReservationSystem: Hotel room reservations.
 
-InventoryManagementSystem: Inventory tracking and management.
+- InventoryManagementSystem: Inventory tracking and management.
 
-ExaminationSystem: Online exam platform.
+- ExaminationSystem: Online exam platform.
 
-OnlineQuizResultProcessor: Evaluates quiz answers and generates scores and grades.
+- OnlineQuizResultProcessor: Evaluates quiz answers and generates scores and grades.
 
-OnlineVotingSystem: Online voting system.
+- OnlineVotingSystem: Online voting system.
 
-StudentCourseRegistration: Student course registration.
+- StudentCourseRegistration: Student course registration.
 
-TrafficManagerSystem: Traffic management system.
+- TrafficManagerSystem: Traffic management system.
 
-BankAccountManager: Banking application
+- BankAccountManager: Banking application
 
-CafetariaMenuApp: Displays a cafeteria menu and retrieves the selected item.
+- CafetariaMenuApp: Displays a cafeteria menu and retrieves the selected item.
 
-HospitalPatientManagementSystem: Manages hospital patients and generates bills using OOP concepts.
+- HospitalPatientManagementSystem: Manages hospital patients and generates bills using OOP concepts.
 
-InvoiceGenerator: Generates an invoice total by parsing task-wise costs.
+- InvoiceGenerator: Generates an invoice total by parsing task-wise costs.
 
-InvoiceGeneratorWithException: Parses invoice data and calculates total amount with exception handling.
+- InvoiceGeneratorWithException: Parses invoice data and calculates total amount with exception handling.
 
-LibraryManagementSystem: Manages library books with search and checkout features.
+- LibraryManagementSystem: Manages library books with search and checkout features.
 
-MathUtility: Provides basic mathematical utility functions in Java.
+- MathUtility: Provides basic mathematical utility functions in Java.
 
-ParagraphAnalyzer: Paragraph text analysis.
+- ParagraphAnalyzer: Paragraph text analysis.
 
-PhoneContactOrganizer: Contact organization.
+- PhoneContactOrganizer: Contact organization.
 
-SentenceFormatter: Sentence formatting.
+- SentenceFormatter: Sentence formatting.
 
-StudentReportGenerator: Report generation.
+- StudentReportGenerator: Report generation.
 
 Core Java Branch: https://github.com/MahiSharma05/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
 
 
 ### Completed: Data Structures & Algorithms (Linked Lists, Stack, Queue, HashMap, Sorting ,Searching) DSA Scenario-Based Problems:
 
-BankAccount: Bank account management with hierarchy.
+- BankAccount: Bank account management with hierarchy.
 
-Bookshelf: Bookshelf organization system.
+- Bookshelf: Bookshelf organization system.
 
-BrowserBuddy: Browser bookmark management.
+- BrowserBuddy: Browser bookmark management.
 
-Employee: Employee role management.
+- Employee: Employee role management.
 
-ExamProctor: Exam proctoring system.
+- ExamProctor: Exam proctoring system.
 
-MovieSchedulerManager: Movie scheduling application.
+- MovieSchedulerManager: Movie scheduling application.
 
-ParcelTracker: Parcel tracking system.
+- ParcelTracker: Parcel tracking system.
 
-TrafficManager: Traffic management system.
+- TrafficManager: Traffic management system.
 
 **DSA Scenario-Based Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
 
-### Completed: Collections Framework, Exception handling, java Generics, regex, junit, stream and Scenario-Based Problems:
+### Completed: Collections Framework (Exception handling, java Generics, regex, junit, stream) Scenario-Based Problems:
 
 - FutureLogistics: It maintain records of goods transported and bill details that can be displayed as and when required.
   
