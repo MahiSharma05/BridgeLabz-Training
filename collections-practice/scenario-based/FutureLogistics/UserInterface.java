@@ -1,0 +1,41 @@
+package FutureLogistics;
+
+import java.util.Scanner;
+
+public class UserInterface {
+
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+        Utility utility = new Utility();
+
+        System.out.println("Enter the Goods Transport details");
+        String userinput = input.nextLine();
+
+        GoodsTransport gt = utility.parseDetails(userinput);
+
+        if (gt == null) {
+            return;
+        }
+        System.out.println("\nTransporter id : " + gt.getTransportId());
+        System.out.println("Date of transport : " + gt.getTransportDate());
+        System.out.println("Rating of the transport : " + gt.getTransportRating());
+
+        if (gt instanceof BrickTransport) {
+            BrickTransport bt = (BrickTransport) gt;
+            System.out.println("Quantity of bricks : " + bt.getBrickQuantity());
+            System.out.println("Brick price : " + bt.getBrickPrice());
+        }
+
+        if (gt instanceof TimberTransport) {
+            TimberTransport tt = (TimberTransport) gt;
+            System.out.println("Type of the timber : " + tt.getTimberType());
+            System.out.println("Timber price per kilo : " + tt.getTimberPrice());
+        }
+
+        System.out.println("Vehicle for transport : " + gt.vehicleSelection());
+        System.out.println("Total charge : " + gt.calculateTotalCharge());
+        input.close();
+
+    }
+}
