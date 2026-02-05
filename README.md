@@ -310,7 +310,7 @@ Collection-practice Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/
 17-jan-2026 (Saturday) : Learn StringBuilder , StringBuffer and solve TrafficManager scenaio-based problem.
 
 
-## Week 4 - Getting staeted with java Collections.
+## Week 4 - Getting stated with java Collections.
 
 19-jan-2026 (Monday) : Studied java Generics class and implemented Employee Role Polymorphism and Banking Account problem.
 
@@ -335,6 +335,18 @@ Collection-practice Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/
 31-Jan-2026 (Saturday) : Continued with junit and implement all problems.
 
 1-Feb-2026 (Sunday) : Solved FutureLogistics scenario practice problem.
+
+## Week 5 - Getting stated with IO Programming.
+
+
+2-feb-2026 (Monday) : Learned csv data handling and implements the problems.
+
+3-Feb-2026 (Tuesday) : Learned about java json and implements the problems.
+
+## Week 6 - Getting stated with Java Eight Features.
+
+4-Feb-2026 (Wednesday) : Learned about functional interface and Lambda Expression and Implements the problems.
+
 
 
 
