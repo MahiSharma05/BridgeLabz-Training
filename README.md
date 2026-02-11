@@ -121,6 +121,30 @@ BridgeLabz-Training (main repository)
 
 │   └── scenario-based
 
+├── Branch: IO-Programming-practice
+
+│   ├── gcr-codebase
+
+│   │   ├── Collectors
+
+│   │   ├── Functional Interface
+
+│   │   ├── Lambda Expression
+
+│   │   ├── Stream Api
+
+│   └── scenario-based
+
+├── Branch: java-eight-feature-practice
+
+│   ├── gcr-codebase
+
+│   │   ├── CSV Data Handling
+
+│   │   ├── json-practice
+
+│   └── scenario-based
+
 └── Branch: reviews 
 
 
