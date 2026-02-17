@@ -2,113 +2,73 @@ package model;
 
 import java.util.Objects;
 
-//UC-1 Create a contact in Address Book 
 public class Contact {
-	private String firstName;
-	private String lastName;
-	private String address;
-	private String city;
-	private String state;
-	private String zip;
-	private String phoneNumber;
-	private String email;
-	
-//Constractor
-public Contact(String firstName, String lastName, String address, String city, String state, String zip, String phoneNumber, String email){
-	this.firstName = firstName;
-	this.lastName = lastName;
-	this.address = address;
-	this.city = city;
-	this.state = state;
-	this.zip = zip;
-	this.phoneNumber = phoneNumber;
-	this.email = email;
-}
+    private String firstName;
+    private String lastName;
+    private String address;
+    private String city;
+    private String state;
+    private String zip;
+    private String phoneNumber;
+    private String email;
 
-//public getters and setter for first name
-public String getFirstName() {
-	return firstName;
-}
-public void setFirstName(String firstName) {
-	this.firstName = firstName;
-}
+    public Contact(String firstName, String lastName, String address, String city,
+                   String state, String zip, String phoneNumber, String email) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.address = address;
+        this.city = city;
+        this.state = state;
+        this.zip = zip;
+        this.phoneNumber = phoneNumber;
+        this.email = email;
+    }
 
-//public getters and setter for last name
-public String getLastName() {
-	return lastName;
-}
-public void setLastName(String lastName) {
-	this.lastName = lastName;
-}
+    // Getters & Setters
+    public String getFirstName() { return firstName; }
+    public void setFirstName(String firstName) { this.firstName = firstName; }
+    public String getLastName() { return lastName; }
+    public void setLastName(String lastName) { this.lastName = lastName; }
+    public String getAddress() { return address; }
+    public void setAddress(String address) { this.address = address; }
+    public String getCity() { return city; }
+    public void setCity(String city) { this.city = city; }
+    public String getState() { return state; }
+    public void setState(String state) { this.state = state; }
+    public String getZip() { return zip; }
+    public void setZip(String zip) { this.zip = zip; }
+    public String getPhoneNumber() { return phoneNumber; }
+    public void setPhoneNumber(String phoneNumber) { this.phoneNumber = phoneNumber; }
+    public String getEmail() { return email; }
+    public void setEmail(String email) { this.email = email; }
 
-//public getters and setter for address
-public String getAddress() {
-	return address;
-}
-public void setAddress(String address) {
-	this.address = address;
-}
+    @Override
+    public String toString() {
+        return firstName + " " + lastName + " | " + city + ", " + state + " | " + zip;
+    }
 
-//public getters and setter for city
-public String getCity() {
-	return city;
-}
-public void setCity(String city) {
-	this.city = city;
-}
+    @Override
+    public boolean equals(Object o) {
+        if(this == o) return true;
+        if(o == null || getClass() != o.getClass()) return false;
+        Contact contact = (Contact) o;
+        return Objects.equals(firstName, contact.firstName) &&
+               Objects.equals(lastName, contact.lastName);
+    }
 
-//public getters and setter for state
-public String getState() {
-	return state;
-}
-public void setState(String state) {
-	this.state = state;
-}
+    @Override
+    public int hashCode() {
+        return Objects.hash(firstName, lastName);
+    }
 
-//public getters and setter for zip
-public String getZip() {
-	return zip;
-}
-public void setZip(String zip) {
-	this.zip = zip;
-}
+    // For File IO
+    public String toFileString() {
+        return String.join(",", firstName, lastName, address, city, state, zip, phoneNumber, email);
+    }
 
-//public getters and setter for phone number
-public String getPhoneNumber() {
-	return phoneNumber;
-}
-public void setPhoneNumber(String phonenumber) {
-	this.phoneNumber = phoneNumber;
-}
-
-//public getters and setter for Email
-public String getEmail() {
-	return email;
-}
-public void setEmail(String email) {
-	this.email = email;
-}
-@Override
-public String toString() {
-	return "Name: " + firstName + " " + lastName + " | City: " + city + " | State: " + state + " | Zip: " + zip; 
-}
-
-// UC 7: Check for duplicate entity
-
-@Override
-public boolean equals(Object o) {
-	if(this == o) {
-		return true;
-	}
-	if(o == null || getClass() != o.getClass()) {
-		return false;
-	}
-	Contact contact = (Contact) o;
-	return Objects.equals(firstName, contact.firstName) && Objects.equals(lastName, contact.lastName);
-}
-
-@Override
-public int hashCode() {
-	return Objects.hash(firstName, lastName);
-}
+    public static Contact fromFileString(String line) {
+        String[] parts = line.split(",");
+        if(parts.length != 8) return null;
+        return new Contact(parts[0], parts[1], parts[2], parts[3], parts[4], parts[5], parts[6], parts[7]);
+    }
 }

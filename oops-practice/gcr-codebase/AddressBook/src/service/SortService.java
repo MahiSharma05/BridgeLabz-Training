@@ -1,43 +1,28 @@
 package service;
 
-import dao.AddressBookDao;
 import model.AddressBook;
 import model.Contact;
-import java.util.*;
-import java.util.stream.Collectors;
+
+import java.util.Comparator;
+import java.util.List;
 
 public class SortService {
-    private AddressBookDao dao;
 
-    public SortService(AddressBookDao dao) {
-        this.dao = dao;
+    public void sortByName(AddressBook book){
+        List<Contact> list = book.getContacts();
+        list.sort(Comparator.comparing(Contact::getFirstName)
+                .thenComparing(Contact::getLastName));
     }
 
-    // UC 11: Sort by Person's name [cite: 16]
-    // UC 12: Sort by City, State, or Zip [cite: 17]
-    public List<Contact> sortContacts(String bookName, String criteria) {
-        if (!dao.doesBookExist(bookName)) return new ArrayList<>();
+    public void sortByCity(AddressBook book){
+        book.getContacts().sort(Comparator.comparing(Contact::getCity));
+    }
 
-        List<Contact> contacts = dao.getAddressBook(bookName).getContacts();
-        Comparator<Contact> comparator;
+    public void sortByState(AddressBook book){
+        book.getContacts().sort(Comparator.comparing(Contact::getState));
+    }
 
-        switch (criteria.toLowerCase()) {
-            case "name":
-                comparator = Comparator.comparing(c -> (c.getFirstName() + " " + c.getLastName()));
-                break;
-            case "city":
-                comparator = Comparator.comparing(Contact::getCity);
-                break;
-            case "state":
-                comparator = Comparator.comparing(Contact::getState);
-                break;
-            case "zip":
-                comparator = Comparator.comparing(Contact::getZip);
-                break;
-            default:
-                return contacts;
-        }
-
-        return contacts.stream().sorted(comparator).collect(Collectors.toList());
+    public void sortByZip(AddressBook book){
+        book.getContacts().sort(Comparator.comparing(Contact::getZip));
     }
 }
