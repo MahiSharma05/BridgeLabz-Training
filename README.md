@@ -350,7 +350,7 @@ Collection-practice Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/
 07-Jan-2026 (Wednesday) : Solved scenario based problem CabBookingApp, OnlineBankingSystem. 
 
 
-## Week 3 - Getting Started with data Structure and Algorithms
+## Week 3: Getting Started with data Structure and Algorithms
 
 
 08-Jan-2026 (Thursday) : Studied Key Features and Types of Data Structures in Java and singly, doubly and circular linked-list.
@@ -370,7 +370,7 @@ Collection-practice Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/
 17-jan-2026 (Saturday) : Learn StringBuilder , StringBuffer and solve TrafficManager scenaio-based problem.
 
 
-## Week 4 - Getting stated with java Collections.
+## Week 4: Getting stated with java Collections.
 
 
 19-jan-2026 (Monday) : Studied java Generics class and implemented Employee Role Polymorphism and Banking Account problem.
@@ -398,7 +398,7 @@ Collection-practice Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/
 1-Feb-2026 (Sunday) : Solved FutureLogistics scenario practice problem.
 
 
-## Week 5 - Getting stated with IO Programming.
+## Week 5: Getting stated with IO Programming.
 
 
 2-feb-2026 (Monday) : Learned csv data handling and implements the problems.
@@ -406,7 +406,7 @@ Collection-practice Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/
 3-Feb-2026 (Tuesday) : Learned about java json and implements the problems.
 
 
-## Week 6 - Getting stated with Java Eight Features.
+## Week 6: Getting stated with Java Eight Features.
 
 
 4-Feb-2026 (Wednesday) : Learned about functional interface and Lambda Expression and Implements the problems.
@@ -416,7 +416,7 @@ Collection-practice Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/
 6-Feb-2026 (Friday) : Learned about Collectors and solved the practice set problems of Collectors.
 
 
-## Week 7 - Started with Solution Designing
+## Week 7: Started with Solution Designing
 
 
 07-Feb-2026 (Saturday) : Learned about Solution designing and different types of patterns. Solved OceanFleet scenario problem.
@@ -426,13 +426,13 @@ Collection-practice Branch:(https://github.com/MahiSharma05/BridgeLabz-Training/
 09-Feb-2026 (Monday) : Learned about SonarQube and generated the SonarQube report for AddressBook problem. Also solved Junit TestCase scenario problem.
 
 
-## Week 8 - Started with Multi-threading
+## Week 8: Started with Multi-threading
 
 
 08-Feb-2026 (Sunday) : Learned about Multi-threading and solved the practice set problem of multi-threading.
 
 
-## Week 9 - Started with JDBC and DBMS
+## Week 9: Started with JDBC and DBMS
 
 
 09-Feb-2026 (Monday) : Learned about JDBC and DBMS. Also solved Health-clinic App scenario based problem and implemented JDBC and DBMS in it.
